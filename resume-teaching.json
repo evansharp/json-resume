@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Evan Sharp",
-    "label": "",
+    "label": "Educator",
     "picture": "http://evansharp.ca/bin/face.jpg",
     "email": "ego@evansharp.ca",
     "phone": "519.716.5730",
     "website": "http://evansharp.ca",
-    "summary": "",
+    "summary": "A Certified Teacher in British Columbia and Ontario, I am a dynamic, qualified, and resourceful instructor with diverse experiences and a passion for teaching.",
     "location": {
       "address": "89 - 1821 Willow Cr.",
       "postalCode": "V8B 0L9",
@@ -25,6 +25,16 @@
     }]
   },
   "work": [{
+    "company": "The Cheakamus Centre",
+    "position": "Program Specialist",
+    "website": "www.cheakamuscentre.ca/",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+		""
+    ]
+  },{
     "company": "",
     "position": "",
     "website": "",
