@@ -15,9 +15,9 @@
       "region": "BC"
     },
     "profiles": [{
-      "network": "",
-      "username": "",
-      "url": ""
+      "network": "Twitter",
+      "username": "evansharp",
+      "url": "http://twitter.com/evansharp"
     }]
   },
   "work": [{
