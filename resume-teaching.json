@@ -14,91 +14,158 @@
       "countryCode": "Canada",
       "region": "BC"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "evansharp",
-      "url": "http://twitter.com/evansharp"
-    },{
-      "network": "Flickr",
-      "username": "evangsharp",
-      "url": "http://flickr.com/photos/evangsharp"
-    }]
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "evansharp",
+        "url": "http://twitter.com/evansharp"
+      },
+      {
+        "network": "Flickr",
+        "username": "evangsharp",
+        "url": "http://flickr.com/photos/evangsharp"
+      }
+    ]
   },
-  "work": [{
-    "company": "The Cheakamus Centre",
-    "position": "Program Specialist",
-    "website": "www.cheakamuscentre.ca/",
-    "startDate": "",
-    "endDate": "",
-    "summary": "",
-    "highlights": [
-		""
-    ]
-  },{
-    "company": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "endDate": "",
-    "summary": "",
-    "highlights": [
-		""
-    ]
-  }],
-  "volunteer": [{
-    "organization": "",
-    "position": "",
-    "website": "",
-    "startDate": "",
-    "endDate": "",
-    "summary": "",
-    "highlights": [
-      ""
-    ]
-  }],
-  "education": [{
-    "institution": "",
-    "area": "",
-    "studyType": "",
-    "startDate": "",
-    "endDate": "",
-    "gpa": "",
-    "courses": [
-      ""
-    ]
-  }],
-  "awards": [{
-    "title": "",
-    "date": "",
-    "awarder": "",
-    "summary": ""
-  }],
-  "publications": [{
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "website": "",
-    "summary": ""
-  }],
-  "skills": [{
-    "name": "",
-    "level": "",
-    "keywords": [
-      ""
-    ]
-  }],
-  "languages": [{
-    "language": "",
-    "fluency": ""
-  }],
-  "interests": [{
-    "name": "",
-    "keywords": [
-      ""
-    ]
-  }],
-  "references": [{
-    "name": "",
-    "reference": ""
-  }]
+  "work": [
+    {
+      "company": "The Cheakamus Centre",
+      "position": "Program Specialist",
+      "website": "www.cheakamuscentre.ca/",
+      "startDate": "2014-01-01",
+      "endDate": "",
+      "summary": "The Cheakamus Centre is a unique environmental learning centre designed to provide exceptional learning and hospitality experiences inspired by nature. The Cheakamus Centre, home of the treasured North Vancouver Outdoor School, is situated on 420-acres of ecological reserve in the Cheakamus River Valley near Squamish, BC.",
+      "highlights": [
+        "Oversee day-to-day operation of immersive aboriginal culture interpretation program for Grade 4 students",
+        "Deliver age-appropriate ecological and cultural programming",
+        "Liaise on behalf of Cheakamus Centre with partner First Nations staff",
+        "Coordinate medical and dietary needs of 100s of participants per week"
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "area": "Education",
+      "studyType": "Bachelor of Education",
+      "startDate": "2013-09-01",
+      "endDate": "2014-05-30",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Wilfrid Laurier University",
+      "area": "Ancient Mediterranean Cultures",
+      "studyType": "Master of Arts",
+      "startDate": "2008-09-01",
+      "endDate": "2011-01-15",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Waterloo",
+      "area": "Classics & Philosophy",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2003-09-01",
+      "endDate": "2007-05-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Latin",
+      "fluency": "10 years post-secondary study"
+    },
+    {
+      "language": "Ancient Greek",
+      "fluency": "2 years post-secondary study"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "1 year post-secondary study"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Mountain Bike Racing",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Climbing",
+      "keywords": []
+    },
+    {
+      "name": "Ringette Officiating",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
 }
