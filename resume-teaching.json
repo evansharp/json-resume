@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Evan Sharp",
+    "label": "",
+    "picture": "",
+    "email": "ego@evansharp.ca",
+    "phone": "519.716.5730",
+    "website": "http://evansharp.ca",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [{
+      "network": "",
+      "username": "",
+      "url": ""
+    }]
+  },
+  "work": [{
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+		""
+    ]
+  }],
+  "volunteer": [{
+    "organization": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+    "institution": "",
+    "area": "",
+    "studyType": "",
+    "startDate": "",
+    "endDate": "",
+    "gpa": "",
+    "courses": [
+      ""
+    ]
+  }],
+  "awards": [{
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
+  }],
+  "publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  }],
+  "skills": [{
+    "name": "",
+    "level": "",
+    "keywords": [
+      ""
+    ]
+  }],
+  "languages": [{
+    "language": "",
+    "fluency": ""
+  }],
+  "interests": [{
+    "name": "",
+    "keywords": [
+      ""
+    ]
+  }],
+  "references": [{
+    "name": "",
+    "reference": ""
+  }]
+}
